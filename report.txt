@@ -1,0 +1,22 @@
+Git commands uses=
+
+-- pwd - to know your current location on system
+-- mkdir - to make a new directry
+-- vi<file name.txt> - to make text file on the system
+-- ls - To list all the available files in folder
+-- cd - For changing directory
+-- cd .. - move to the previous directory
+
+1- Git init- this command is use to create git local repository
+2- Git status- check the status of and shows the files you've changed and files yet to be commited
+3- Git add<file name>- add files to the stagging.
+4- Git commit -a - to commit all the files on github
+5- Git commit -m - to commit all the file on github with message 
+6- Git fetch - to see the difference between server and system
+7-Git pull - to fetch the data from server to local database
+8-Git push - to push the data from local db to repository
+9-git config --global user.email "email" | to set email id
+10-git config --global user.name "Name" | to set name
+11-Git clone <url> - To clone the repository 
+12-Git remote set url origin <url>- Copies current repo to the designed url repo				
+
